@@ -1,6 +1,7 @@
 #carpetas con el dataset
 /dataset/
 /entreno_organizado/
+/entreno_organizado_sin_cambios/
 
 #dataset completo en zip
 archive.zip
